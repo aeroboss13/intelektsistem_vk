@@ -1,1 +1,1 @@
-login, password = "+79160272700", "Tesla19111"
+login, password = "your number", "your pass"
